@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning stuff to be a Full-Stack Web Developer!
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/KamalRawat02)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Kraken-kr?tab=repositories)
 
 - 💬 Let's talk about **Web-Devlopment, UI/UX design, Graphic Designing**
 
