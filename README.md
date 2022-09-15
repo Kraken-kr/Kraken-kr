@@ -1,8 +1,12 @@
 
+<!--
 ![cover](assets/cover.png)
 <br>
+-->
 
-<h1 align="center">Hi 👋, I'm Kamal Rawat <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center"><i>Hi 👋, I'm Kamal Rawat aka Kraken <i/><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+
+<br>
 
 - 🔭 I’m currently working on **MERN Stack Projects**
 
